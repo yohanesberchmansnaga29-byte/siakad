@@ -1,0 +1,6 @@
+{
+  "name": "SIAKAD Siswa - Buku Induk & Data Siswa Digital",
+  "description": "Aplikasi manajemen daftar siswa lengkap, data induk, statistik akademik, rekap presensi, export-import, dan cetak kartu pelajar digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
